@@ -5,8 +5,11 @@
 	padding: 10px;
 }
 .header, .footer {
-	min-height: 50px;
+	min-height: 60px;
 	border: 1px solid black;
+}
+.footer {
+	min-height: 90px;
 }
 .wrap {
 	border: 1px solid black;
@@ -15,10 +18,10 @@
 }
 .sidebar, .main {
 	border: 1px solid black;
-	width: 267px;
-	min-height: 100px;
+	width: 277px;
+	min-height: 350px;
 	float: left;
-	margin: 10px;
+	margin: 5px;
 }
 .clear {
 	clear: both;

@@ -42,7 +42,8 @@
    width: 40px;
   height: 40px;
   background: cyan;
-  margin: 180px 0 0 160px;
+  left: 165px;
+  top: 189px;
   z-index: 1;
 }
 .fluger {
